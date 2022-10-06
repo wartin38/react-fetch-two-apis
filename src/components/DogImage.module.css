@@ -1,0 +1,17 @@
+.dogImageContainer {
+  max-width: 600px;
+  padding: 16px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 2px solid hsl(39, 75%, 18%);
+  border-radius: 12px;
+  background-color: hsl(39, 75%, 64%);
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dogImageContainer img {
+  height: 300px;
+}

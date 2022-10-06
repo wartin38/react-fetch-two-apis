@@ -1,0 +1,14 @@
+.spinner {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+  border: 1px solid black;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 100px;
+}
